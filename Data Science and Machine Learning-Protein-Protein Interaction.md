@@ -12,9 +12,9 @@ PPIs may help in decoding the functionality of unannotated proteins. Many experi
 
 While biological descriptions seem to have reached levels of information, powerful computational approaches became available for data science. They are based on machine learning (ML), a procedure that can discover relations, if existing, among dependent and independent data sets (Baldi, 2021).
 
-ML refers to many algorithms able to automatically build models for inference and clustering, starting from a set of data called _training set_. ML can be _unsupervised_ or _supervised_. In the context of computing PPIs, supervised ML is most relevant
+ML refers to many algorithms able to automatically build models for inference and clustering, starting from a set of data called _training set_. ML can be unsupervised or supervised. In the context of computing PPIs, supervised ML is most relevant
 
-S_upervised_ ML algorithms infer mapping between two spaces (input and output), based on known training examples (Bishop, 2006). Supervised ML aims to implement tools that generalize the learned associations to new examples. Supervised ML methods can be adopted for classification or regression, depending on the discrete or continuous property of the output space.
+Supervised ML algorithms infer mapping between two spaces (input and output), based on known training examples (Bishop, 2006). Supervised ML aims to implement tools that generalize the learned associations to new examples. Supervised ML methods can be adopted for classification or regression, depending on the discrete or continuous property of the output space.
 
 Recently, some improvements in networks validation were described, including an analysis of network paths (Kovacs _et al_., 2019) and its variant integrating complementary interface and gene duplication (Chen _et al_., 2020).
 
