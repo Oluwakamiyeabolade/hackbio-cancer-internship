@@ -2,7 +2,7 @@
 
 **Authors: Rachael Oluwakamiye Abolade (@Oluwakamiye)**
 
-_Proteins_ are organic molecules abundant in living systems and conduct a range of unique functions such as transport, storage, membrane composition, and enzymatic action, among others (Clark, 2018). Thus, one may obtain biological insights into protein functions, disease prevalence, and therapy development by identifying interaction amongst protein pairs (Zhao _et al_., 2020).****
+_Proteins_ are organic molecules abundant in living systems that conducts a range of unique functions such as transport, storage, membrane composition, and enzymatic action, among others (Clark, 2018). Thus, one may obtain biological insights into protein functions, disease prevalence, and therapy development by identifying interaction amongst protein pairs (Zhao _et al_., 2020).****
 
 Protein–protein interactions compose complexes to conduct numerous biological processes and functions such as metabolic cycles, signal transduction, DNA transcription and replication, catalysis, and immune response (Jones _et al_., 1996). The activities of cells and their functions are affected by abnormalities in protein interactions, leading to numerous diseases such as cancer. Comprehensive identification of PPIs can help to decode the molecular mechanisms of the specific biological functions involved (Wang _et al_., 2020). The proximity of proteins in PPI is of paramount importance for specific functionality. Jansen et al. (2003) demonstrated that the interaction between known and unknown functional proteins can significantly contribute toward deciphering many protein functions.
 
